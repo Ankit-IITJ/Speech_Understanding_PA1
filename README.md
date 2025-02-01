@@ -122,8 +122,8 @@ pip install librosa numpy matplotlib torch torchaudio scikit-learn
 ### Running the Speech-to-Text Models
 1. Clone this repository:
    ```bash
-   git clone https://github.com/m23csa516/speechunderstandingPA1.git
-   cd speechunderstandingPA1
+   git clone https://github.com/Ankit-IITJ/Speech_Understanding_PA1.git
+   cd Speech_Understanding_PA1
    ```
 2. Run the Jupyter Notebooks for STT model evaluation:
    ```bash
