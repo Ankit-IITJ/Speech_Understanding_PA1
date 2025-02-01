@@ -1,4 +1,5 @@
-## Speech-to-Text and Spectrogram Analysis (Question 1)
+## Question 1
+## Speech-to-Text and Spectrogram Analysis
 
 This repository contains the implementation and analysis of **Speech-to-Text (STT) models** and **Spectrogram Windowing Techniques**, focusing on state-of-the-art methodologies, datasets, and performance evaluations.
 
@@ -130,13 +131,7 @@ pip install librosa numpy matplotlib torch torchaudio scikit-learn
    jupyter notebook Question1.ipynb
    jupyter notebook Question2.ipynb
    ```
-
-### Running the Spectrogram Analysis
-1. Open `Question2.ipynb` in Jupyter Notebook.
-2. Execute the notebook to generate and compare spectrograms.
-
 ---
-
 ## References
 - [Hugging Face Wav2Vec2](https://huggingface.co/facebook/wav2vec2-base-960h)
 - [Hugging Face SpeechT5](https://huggingface.co/microsoft/speecht5_asr)
